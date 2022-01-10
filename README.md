@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coco202222
-- 👀 I’m interested in Python
+- 👀 I’m form HK
 - 🌱 I’m currently learning Python
 
 
